@@ -8,5 +8,7 @@ http://postd.cc/monads-in-javascript/
 
 * Identity
 
+## Maybeモナド
 
+* Just
 
