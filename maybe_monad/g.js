@@ -1,5 +1,5 @@
 var Just = require('../lib/just');
-var Nothing = require('../lib/noting');
+var Nothing = require('../lib/nothing');
 function getUser() {
     return new Just({
         getAvatar: function() {
